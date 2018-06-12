@@ -43,4 +43,19 @@ public class TopMenuController : BaseAndroidMainController {
     {
         PushNextScene("ComputerVision");
     }
+
+    public void OnTestCloudAnchorClicked()
+    {
+        PushNextScene("CloudAnchor");
+    }
+
+    public void OnTestAugmentedImageClicked()
+    {
+        PushNextScene("AugmentedImage");
+    }
+
+    public void OnTestMeasureClicked()
+    {
+        PushNextScene("TestMeasure");
+    }
 }
