@@ -58,4 +58,9 @@ public class TopMenuController : BaseAndroidMainController {
     {
         PushNextScene("TestMeasure");
     }
+
+    public void OnTestAugmentedImage2Clicked()
+    {
+        PushNextScene("TestAugmentedImage");
+    }
 }
