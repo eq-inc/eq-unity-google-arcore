@@ -16,7 +16,6 @@ public static class CloudAnchorManager
     {
         get
         {
-            RestoreAll();
             return sPrefKeyDic.Count;
         }
     }
