@@ -63,4 +63,9 @@ public class TopMenuController : BaseAndroidMainController {
     {
         PushNextScene("TestAugmentedImage");
     }
+
+    public void OnTestCloudAnchor2Clicked()
+    {
+        PushNextScene("TestCloudAnchor");
+    }
 }

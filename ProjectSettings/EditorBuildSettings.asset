@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/TestAugmentedImage.unity
     guid: 0a990ad18f669444b841abd13bf6cc4e
   - enabled: 1
+    path: Assets/Scenes/TestCloudAnchor.unity
+    guid: 66cf206719943724c957e66525cde8c6
+  - enabled: 1
     path: Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
     guid: e6a6fa04348cb45c9b0221eb19c946da
   - enabled: 1
